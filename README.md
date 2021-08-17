@@ -1,3 +1,7 @@
+<h1> Hi there </h1>
+<h2> This is the GitHub Page of Martin Valdivia </h2>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/martinvaldivia/martinvaldivia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
