@@ -9,3 +9,4 @@
 <p> Fontawesome : https://fontawesome.com/ </p> 
 <p> Fonts : https://fonts.google.com/ </p> 
 <p> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/ </p>
+<p> Validator https://validator.w3.org/ </p>
