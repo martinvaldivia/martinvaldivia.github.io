@@ -3,13 +3,9 @@
 
 <h2> Welcome! </h2>
 
-<p>
-Credits :
---------- 
-
-=> Design & developed: "WebThemez"  http://webthemez.com 
-=> Bootstrap : http://getbootstrap.com/
-=> Fontawesome : https://fontawesome.com/
-=> Fonts : https://fonts.google.com/
-=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
-</p>
+<p> Credits: </p>
+<p> Design & developed: "WebThemez"  http://webthemez.com </p>
+<p> Bootstrap : http://getbootstrap.com/ </p>
+<p> Fontawesome : https://fontawesome.com/ </p> 
+<p> Fonts : https://fonts.google.com/ </p> 
+<p> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/ </p>
