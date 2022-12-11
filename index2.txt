@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Martin Valdivia Website</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+        
+        <!--Style-->
+        <style>
+            body {
+                font-family: 'Tangerine', serif;
+                font-size: 48px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div>Making the Web Beautiful!</div>
+    </body>
+</html>
